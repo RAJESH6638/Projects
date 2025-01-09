@@ -61,26 +61,26 @@ You also need the following Python libraries:
    
 2. Install the required dependencies:
 
-```bash
-   pip install -r requirements.txt
+   ```bash
+      pip install -r requirements.txt
 
 3. Set up your Groq API key:
    Create a .env file in the root directory and add the following:
 
-```bash
-   GROK_API_KEY=your_groq_api_key_here  
+   ```bash
+      GROK_API_KEY=your_groq_api_key_here  
 ---
 
 1. Usage
    Run the app:
 
-```bash
-   streamlit run main.py  
+   ```bash
+      streamlit run main.py  
 
 2. Enter the URL of the job description you want to parse. For example, use a link like this:
 
-```text
-   https://jobs.nike.com/job/R-44993?from=job%20search%20funnel  
+   ```text
+      https://jobs.nike.com/job/R-44993?from=job%20search%20funnel  
 
 3. Click "Submit" to get a cold email generated based on the job description.
 
