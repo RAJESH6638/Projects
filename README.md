@@ -111,5 +111,5 @@ For questions, feedback, or suggestions, please contact:
 Rajesh Singh  
 - GitHub: [RAJESH6638](https://github.com/RAJESH6638)  
 - LinkedIn: [Rajesh Singh](https://www.linkedin.com/in/rajesh-singh/)
-- Email: [Rajesh Singh](writetorajesh1214@gmail.com)
+- Email:     writetorajesh1214@gmail.com
  
