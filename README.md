@@ -69,6 +69,7 @@ You also need the following Python libraries:
 
 ```bash
    GROK_API_KEY=your_groq_api_key_here  
+---
 
 1. Usage
    Run the app:
