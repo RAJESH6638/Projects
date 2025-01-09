@@ -80,7 +80,7 @@ You also need the following Python libraries:
 2. Enter the URL of the job description you want to parse. For example, use a link like this:
 
    ```text
-      https://jobs.nike.com/job/R-44993?from=job%20search%20funnel  
+      https://aexp.eightfold.ai/careers/job/26707639?hl=en  
 
 3. Click "Submit" to get a cold email generated based on the job description.
 
@@ -111,4 +111,5 @@ For questions, feedback, or suggestions, please contact:
 Rajesh Singh  
 - GitHub: [RAJESH6638](https://github.com/RAJESH6638)  
 - LinkedIn: [Rajesh Singh](https://www.linkedin.com/in/rajesh-singh/)
-
+- Email: [Rajesh Singh](writetorajesh1214@gmail.com)
+ 
