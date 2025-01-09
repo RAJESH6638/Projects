@@ -62,4 +62,52 @@ You also need the following Python libraries:
 2. Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt  
+   pip install -r requirements.txt
+
+3. Set up your Groq API key:
+   Create a .env file in the root directory and add the following:
+
+```bash
+   GROK_API_KEY=your_groq_api_key_here  
+
+1. Usage
+   Run the app:
+
+```bash
+   streamlit run main.py  
+
+2. Enter the URL of the job description you want to parse. For example, use a link like this:
+
+```text
+   https://jobs.nike.com/job/R-44993?from=job%20search%20funnel  
+
+3. Click "Submit" to get a cold email generated based on the job description.
+
+## Features
+
+- **Job Description Parsing**: Extracts relevant data from job postings on company career pages.
+- **Skill Matching**: Matches predefined skills with the job description.
+- **Email Generation**: Automatically generates a personalized email for job applications.
+- **Streamlit Deployment**: Easily accessible web interface for personal use.
+
+## Contributing
+
+This project is for individual use, but contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m "Add feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+For questions, feedback, or suggestions, please contact:  
+Rajesh Singh  
+- GitHub: [RAJESH6638](https://github.com/RAJESH6638)  
+- LinkedIn: [Rajesh Singh](https://www.linkedin.com/in/rajesh-singh/)
+
